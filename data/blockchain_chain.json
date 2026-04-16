@@ -1,0 +1,2093 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1774700102.8194354,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "GENESIS",
+      "message": "绿色食品交易平台区块链创世区块"
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "403baeabde6ac1c819f4c107961a40641b182a2be078d6be35cf2115a9d3dc56"
+  },
+  {
+    "index": 1,
+    "timestamp": 1774700102.8201492,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328001",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.819024"
+    },
+    "previous_hash": "403baeabde6ac1c819f4c107961a40641b182a2be078d6be35cf2115a9d3dc56",
+    "hash": "2d66187571305ae60100f4c816587da34acb08fdba6920164a6ec28fdc1a255e"
+  },
+  {
+    "index": 2,
+    "timestamp": 1774700102.8214445,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328001",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.820925"
+    },
+    "previous_hash": "2d66187571305ae60100f4c816587da34acb08fdba6920164a6ec28fdc1a255e",
+    "hash": "f1d09c083660c2b8453da7cceb1a9bb65857ed294ad98899aac376756b740613"
+  },
+  {
+    "index": 3,
+    "timestamp": 1774700102.8224814,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328001",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.822160"
+    },
+    "previous_hash": "f1d09c083660c2b8453da7cceb1a9bb65857ed294ad98899aac376756b740613",
+    "hash": "eb40342c14f649931e05710790ffa64a710c6a1a929f848ac824c44c97afc3fc"
+  },
+  {
+    "index": 4,
+    "timestamp": 1774700102.8234406,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328001",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.823146"
+    },
+    "previous_hash": "eb40342c14f649931e05710790ffa64a710c6a1a929f848ac824c44c97afc3fc",
+    "hash": "c30495da6ec05b7d84b503c207b7aa4765abfeaafa95fd804dfa931fb927983e"
+  },
+  {
+    "index": 5,
+    "timestamp": 1774700102.824385,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328001",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.824081"
+    },
+    "previous_hash": "c30495da6ec05b7d84b503c207b7aa4765abfeaafa95fd804dfa931fb927983e",
+    "hash": "ffd493d0290c95135f0bbab2a9f4c752b834b847bbd8e633f791d355edb352ce"
+  },
+  {
+    "index": 6,
+    "timestamp": 1774700102.8269045,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328002",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.826532"
+    },
+    "previous_hash": "ffd493d0290c95135f0bbab2a9f4c752b834b847bbd8e633f791d355edb352ce",
+    "hash": "4473d22c9851448678e5e2daf9c46bc4f667992e25b4ecda09dff45e3574d48b"
+  },
+  {
+    "index": 7,
+    "timestamp": 1774700102.8279607,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328002",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.827645"
+    },
+    "previous_hash": "4473d22c9851448678e5e2daf9c46bc4f667992e25b4ecda09dff45e3574d48b",
+    "hash": "17483b5afbccbd35e663ea2d004686b2fbca6ee3f8b4f140c1e705a490f05b25"
+  },
+  {
+    "index": 8,
+    "timestamp": 1774700102.8289118,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328002",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.828602"
+    },
+    "previous_hash": "17483b5afbccbd35e663ea2d004686b2fbca6ee3f8b4f140c1e705a490f05b25",
+    "hash": "7cc7b16984f78b0a53e1a6ce86fc218cd339badc36b4c02ca7f122694ee61a6b"
+  },
+  {
+    "index": 9,
+    "timestamp": 1774700102.8303728,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328002",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.830033"
+    },
+    "previous_hash": "7cc7b16984f78b0a53e1a6ce86fc218cd339badc36b4c02ca7f122694ee61a6b",
+    "hash": "b0ce9438996cf83e1274e20f22d36689703c9be47ee4f680022891500e1ea71e"
+  },
+  {
+    "index": 10,
+    "timestamp": 1774700102.8314967,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328002",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.831185"
+    },
+    "previous_hash": "b0ce9438996cf83e1274e20f22d36689703c9be47ee4f680022891500e1ea71e",
+    "hash": "1da1648d3175d825fbfcea0ce5416ab71cdc0a09064973eff272b48b392a5d8d"
+  },
+  {
+    "index": 11,
+    "timestamp": 1774700102.8340611,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328003",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.833699"
+    },
+    "previous_hash": "1da1648d3175d825fbfcea0ce5416ab71cdc0a09064973eff272b48b392a5d8d",
+    "hash": "035fb7be9e29c60d4c9c7f9d8dfb132805d7b3564d3c8a0f640c8b9b0222d17c"
+  },
+  {
+    "index": 12,
+    "timestamp": 1774700102.8353574,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328003",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.834956"
+    },
+    "previous_hash": "035fb7be9e29c60d4c9c7f9d8dfb132805d7b3564d3c8a0f640c8b9b0222d17c",
+    "hash": "d16ea3b5df3d1210b027bc0d70381a7fac48b70b5368f1f579c40bcdd5b67586"
+  },
+  {
+    "index": 13,
+    "timestamp": 1774700102.8363097,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328003",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.836024"
+    },
+    "previous_hash": "d16ea3b5df3d1210b027bc0d70381a7fac48b70b5368f1f579c40bcdd5b67586",
+    "hash": "bf9ea816b18a55dfc91813a724627b79dada2be0342a46f05f17005828197a5b"
+  },
+  {
+    "index": 14,
+    "timestamp": 1774700102.837303,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328003",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.836952"
+    },
+    "previous_hash": "bf9ea816b18a55dfc91813a724627b79dada2be0342a46f05f17005828197a5b",
+    "hash": "3d7179a639e68ee82b359721ee14e5dff27e8351cca2fb886409f002b578b937"
+  },
+  {
+    "index": 15,
+    "timestamp": 1774700102.838194,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328003",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.837927"
+    },
+    "previous_hash": "3d7179a639e68ee82b359721ee14e5dff27e8351cca2fb886409f002b578b937",
+    "hash": "c707ba5894238ec01cf98cad241861fc4509559d33b4dcee6aa834fe8a055518"
+  },
+  {
+    "index": 16,
+    "timestamp": 1774700102.8407397,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328004",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.840285"
+    },
+    "previous_hash": "c707ba5894238ec01cf98cad241861fc4509559d33b4dcee6aa834fe8a055518",
+    "hash": "c942eb83994e8ca5773b138b0cef20dc39f7c221e4ec670a5557fa00243afb02"
+  },
+  {
+    "index": 17,
+    "timestamp": 1774700102.8425844,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328004",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.842165"
+    },
+    "previous_hash": "c942eb83994e8ca5773b138b0cef20dc39f7c221e4ec670a5557fa00243afb02",
+    "hash": "d809d2182a4bed0475331105c22c30d09ad311abd36cba913b3a21fd3d6c4082"
+  },
+  {
+    "index": 18,
+    "timestamp": 1774700102.8437417,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328004",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.843357"
+    },
+    "previous_hash": "d809d2182a4bed0475331105c22c30d09ad311abd36cba913b3a21fd3d6c4082",
+    "hash": "200843a24cbf74d25c6e4e02c586b633dea8bd200fe3ae77e0d56835170371a9"
+  },
+  {
+    "index": 19,
+    "timestamp": 1774700102.8450892,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328004",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.844416"
+    },
+    "previous_hash": "200843a24cbf74d25c6e4e02c586b633dea8bd200fe3ae77e0d56835170371a9",
+    "hash": "409e59827f14aa70e8db6463fe4e6e0051cf2acbdd0e3feb5b90b680edcf9b30"
+  },
+  {
+    "index": 20,
+    "timestamp": 1774700102.846743,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328004",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.846388"
+    },
+    "previous_hash": "409e59827f14aa70e8db6463fe4e6e0051cf2acbdd0e3feb5b90b680edcf9b30",
+    "hash": "5ad1e70a2c181934f095bc2951ee62613742a19b75913bb869abc78ea5524e37"
+  },
+  {
+    "index": 21,
+    "timestamp": 1774700102.8496983,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328005",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.849240"
+    },
+    "previous_hash": "5ad1e70a2c181934f095bc2951ee62613742a19b75913bb869abc78ea5524e37",
+    "hash": "ca942f9f19085525a2e58250396f8f1a00a170b278e28a898021521f009d1f6c"
+  },
+  {
+    "index": 22,
+    "timestamp": 1774700102.8509877,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328005",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.850535"
+    },
+    "previous_hash": "ca942f9f19085525a2e58250396f8f1a00a170b278e28a898021521f009d1f6c",
+    "hash": "bad3aef5fc72262154b1fbc96be7461f28843801ead990b3b1bdacb9282186d9"
+  },
+  {
+    "index": 23,
+    "timestamp": 1774700102.852057,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328005",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.851734"
+    },
+    "previous_hash": "bad3aef5fc72262154b1fbc96be7461f28843801ead990b3b1bdacb9282186d9",
+    "hash": "7a70d5298e0df3289b67eafbde5dfab2f123176d7b599d3da8b85390fb284ede"
+  },
+  {
+    "index": 24,
+    "timestamp": 1774700102.8530676,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328005",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.852756"
+    },
+    "previous_hash": "7a70d5298e0df3289b67eafbde5dfab2f123176d7b599d3da8b85390fb284ede",
+    "hash": "81a3a55eff3185e9001ee397253451c1f411a6a82ee50d5909ded5054fc8fe59"
+  },
+  {
+    "index": 25,
+    "timestamp": 1774700102.8540795,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328005",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.853777"
+    },
+    "previous_hash": "81a3a55eff3185e9001ee397253451c1f411a6a82ee50d5909ded5054fc8fe59",
+    "hash": "06c2e7f6a8bb126db203f853e0a83c3ae7cdf623e47fc5ec2c355c6a2c48f3fd"
+  },
+  {
+    "index": 26,
+    "timestamp": 1774700102.8562706,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328006",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.855933"
+    },
+    "previous_hash": "06c2e7f6a8bb126db203f853e0a83c3ae7cdf623e47fc5ec2c355c6a2c48f3fd",
+    "hash": "f851882e17cb3bbdf0ccd541b61dfc67c4346bd245741ce7aaeb3df64a7c9da0"
+  },
+  {
+    "index": 27,
+    "timestamp": 1774700102.8573673,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328006",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.856996"
+    },
+    "previous_hash": "f851882e17cb3bbdf0ccd541b61dfc67c4346bd245741ce7aaeb3df64a7c9da0",
+    "hash": "fdcd929d81721fe8f5c9591ab5b60550570d9d93d9403b0990a0bbf058568516"
+  },
+  {
+    "index": 28,
+    "timestamp": 1774700102.8584468,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328006",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.858108"
+    },
+    "previous_hash": "fdcd929d81721fe8f5c9591ab5b60550570d9d93d9403b0990a0bbf058568516",
+    "hash": "b85102b70ae3a45f6116620b33ecc9c9b06dea970332ff4e8fe847da81e1db29"
+  },
+  {
+    "index": 29,
+    "timestamp": 1774700102.8595965,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328006",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.859227"
+    },
+    "previous_hash": "b85102b70ae3a45f6116620b33ecc9c9b06dea970332ff4e8fe847da81e1db29",
+    "hash": "ab6caa2e299983739ec665312e4b910a39ee4b0346f642b532ea07956db4cc2f"
+  },
+  {
+    "index": 30,
+    "timestamp": 1774700102.8608515,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328006",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.860448"
+    },
+    "previous_hash": "ab6caa2e299983739ec665312e4b910a39ee4b0346f642b532ea07956db4cc2f",
+    "hash": "30ecaeec2830f373b4c3552677b757abcfd1471ebd5faaa08a49356a73655283"
+  },
+  {
+    "index": 31,
+    "timestamp": 1774700102.863537,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328007",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.863149"
+    },
+    "previous_hash": "30ecaeec2830f373b4c3552677b757abcfd1471ebd5faaa08a49356a73655283",
+    "hash": "25684cce07cfa1870cd2b4a0af638c72027682cd3491c322a7584ac5dc509250"
+  },
+  {
+    "index": 32,
+    "timestamp": 1774700102.8646595,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328007",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.864310"
+    },
+    "previous_hash": "25684cce07cfa1870cd2b4a0af638c72027682cd3491c322a7584ac5dc509250",
+    "hash": "e13a643a00b2bc943bcfa5ebcf4f91dfde227904cd25a116b1917c80205057cc"
+  },
+  {
+    "index": 33,
+    "timestamp": 1774700102.8657513,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328007",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.865406"
+    },
+    "previous_hash": "e13a643a00b2bc943bcfa5ebcf4f91dfde227904cd25a116b1917c80205057cc",
+    "hash": "d80961a71f1baf921f4b7a6437ce8169cc94c2e37a1bdba44f6bd97b287006c1"
+  },
+  {
+    "index": 34,
+    "timestamp": 1774700102.8669167,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328007",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.866496"
+    },
+    "previous_hash": "d80961a71f1baf921f4b7a6437ce8169cc94c2e37a1bdba44f6bd97b287006c1",
+    "hash": "b6f60cc4ce6c848ed0afcb5e17c5bf1fb0d7fd493bc62637b7c1e434c2678b45"
+  },
+  {
+    "index": 35,
+    "timestamp": 1774700102.8680294,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328007",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.867651"
+    },
+    "previous_hash": "b6f60cc4ce6c848ed0afcb5e17c5bf1fb0d7fd493bc62637b7c1e434c2678b45",
+    "hash": "cf3b7c4a947fcf215a9ae8a5bc6de1652ec89d2f1671bb30b39e66ebe0405c3c"
+  },
+  {
+    "index": 36,
+    "timestamp": 1774700102.8703253,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328008",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.869922"
+    },
+    "previous_hash": "cf3b7c4a947fcf215a9ae8a5bc6de1652ec89d2f1671bb30b39e66ebe0405c3c",
+    "hash": "2bf673faec294e76dc64b05f04e78a88d05c9a5f74ed97380f935b302d9d7c88"
+  },
+  {
+    "index": 37,
+    "timestamp": 1774700102.8714485,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328008",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.871091"
+    },
+    "previous_hash": "2bf673faec294e76dc64b05f04e78a88d05c9a5f74ed97380f935b302d9d7c88",
+    "hash": "08b18d1ba8f994f9819588a5c5fd20bfbfb0a154bf0ccb2ecabe8cccc16c5d1a"
+  },
+  {
+    "index": 38,
+    "timestamp": 1774700102.872704,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328008",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.872279"
+    },
+    "previous_hash": "08b18d1ba8f994f9819588a5c5fd20bfbfb0a154bf0ccb2ecabe8cccc16c5d1a",
+    "hash": "4c04222f1995fe8ff367005de17fecfffad8bd24a4e2199109ff23b3f7c04171"
+  },
+  {
+    "index": 39,
+    "timestamp": 1774700102.8739395,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328008",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.873562"
+    },
+    "previous_hash": "4c04222f1995fe8ff367005de17fecfffad8bd24a4e2199109ff23b3f7c04171",
+    "hash": "6171c7f1f2ee7c5589d570a7c54c9560da64537f1d0954995651e0a7542a83b7"
+  },
+  {
+    "index": 40,
+    "timestamp": 1774700102.8752267,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328008",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.874761"
+    },
+    "previous_hash": "6171c7f1f2ee7c5589d570a7c54c9560da64537f1d0954995651e0a7542a83b7",
+    "hash": "0d3289d2ed79c8f07969ee39d740e5cf36a66e1b6ce96132646a1fcde58cf15b"
+  },
+  {
+    "index": 41,
+    "timestamp": 1774700102.8783536,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328009",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.877695"
+    },
+    "previous_hash": "0d3289d2ed79c8f07969ee39d740e5cf36a66e1b6ce96132646a1fcde58cf15b",
+    "hash": "c82e1ce2eb3e45dd5134e185fc86ce1d53e590ee2bfe569e2cb8fd9786a127e1"
+  },
+  {
+    "index": 42,
+    "timestamp": 1774700102.8801186,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328009",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.879608"
+    },
+    "previous_hash": "c82e1ce2eb3e45dd5134e185fc86ce1d53e590ee2bfe569e2cb8fd9786a127e1",
+    "hash": "ff6bf9db73b78741364fb8a512383517229a2c2cd1e59629d5dedfb0ad56f8ea"
+  },
+  {
+    "index": 43,
+    "timestamp": 1774700102.881666,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328009",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.881167"
+    },
+    "previous_hash": "ff6bf9db73b78741364fb8a512383517229a2c2cd1e59629d5dedfb0ad56f8ea",
+    "hash": "ea37330010e61dec24887f7d2c3172c4865d0d9b1809ceda551387d967f4cef0"
+  },
+  {
+    "index": 44,
+    "timestamp": 1774700102.8832166,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328009",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.882698"
+    },
+    "previous_hash": "ea37330010e61dec24887f7d2c3172c4865d0d9b1809ceda551387d967f4cef0",
+    "hash": "5dd884239a62bfb747ab54b753d55f4154cd3ee532e6a477c3df5f33001f1648"
+  },
+  {
+    "index": 45,
+    "timestamp": 1774700102.8847206,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328009",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.884236"
+    },
+    "previous_hash": "5dd884239a62bfb747ab54b753d55f4154cd3ee532e6a477c3df5f33001f1648",
+    "hash": "6076003d7a45b86a4cfdb7c0dfff99676161879ef85e004965dd030e48c06aaa"
+  },
+  {
+    "index": 46,
+    "timestamp": 1774700102.887757,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328010",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.887295"
+    },
+    "previous_hash": "6076003d7a45b86a4cfdb7c0dfff99676161879ef85e004965dd030e48c06aaa",
+    "hash": "cccee0b3f81d17d5de4975823e3d671f930623f1a4a4ba4e69d1dfd398a2ce9c"
+  },
+  {
+    "index": 47,
+    "timestamp": 1774700102.8891447,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328010",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.888698"
+    },
+    "previous_hash": "cccee0b3f81d17d5de4975823e3d671f930623f1a4a4ba4e69d1dfd398a2ce9c",
+    "hash": "89507818ec25014b05f357e81aa23280ad23b828115e363de02b804da6404d9e"
+  },
+  {
+    "index": 48,
+    "timestamp": 1774700102.8904552,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328010",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.890015"
+    },
+    "previous_hash": "89507818ec25014b05f357e81aa23280ad23b828115e363de02b804da6404d9e",
+    "hash": "33d982428cd19f41305226b080e72194b744ce0788afa8c991cfab2659052a52"
+  },
+  {
+    "index": 49,
+    "timestamp": 1774700102.892343,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328010",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.891445"
+    },
+    "previous_hash": "33d982428cd19f41305226b080e72194b744ce0788afa8c991cfab2659052a52",
+    "hash": "67bdae097368517c043d12edbdf6600f789d20136036dbc6deadeb3a2e92a881"
+  },
+  {
+    "index": 50,
+    "timestamp": 1774700102.8939505,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328010",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.893490"
+    },
+    "previous_hash": "67bdae097368517c043d12edbdf6600f789d20136036dbc6deadeb3a2e92a881",
+    "hash": "819cdf5b3a9db705a4427dfabb88fe93a33764e944563c1cdb5efd02dcbf693f"
+  },
+  {
+    "index": 51,
+    "timestamp": 1774700102.8970332,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328011",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.896561"
+    },
+    "previous_hash": "819cdf5b3a9db705a4427dfabb88fe93a33764e944563c1cdb5efd02dcbf693f",
+    "hash": "9c2888022a745db5ba138f13cc3b873df0d2c35f366537b50a8b689fc9a7fe5c"
+  },
+  {
+    "index": 52,
+    "timestamp": 1774700102.898446,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328011",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.897966"
+    },
+    "previous_hash": "9c2888022a745db5ba138f13cc3b873df0d2c35f366537b50a8b689fc9a7fe5c",
+    "hash": "9db90cd80e3bc947b0be0645894e264be0a317aa4fbf6544283592e4e03311f5"
+  },
+  {
+    "index": 53,
+    "timestamp": 1774700102.8997686,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328011",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.899330"
+    },
+    "previous_hash": "9db90cd80e3bc947b0be0645894e264be0a317aa4fbf6544283592e4e03311f5",
+    "hash": "ba43a9c8dfe48776c87636f6d872e0eb35b0209f3a6c8c6fa14bfe96200365d4"
+  },
+  {
+    "index": 54,
+    "timestamp": 1774700102.901095,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328011",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.900659"
+    },
+    "previous_hash": "ba43a9c8dfe48776c87636f6d872e0eb35b0209f3a6c8c6fa14bfe96200365d4",
+    "hash": "11e48760623afcb404a6e301101aeb8cccc02e9454774badb551fe80f72c69c6"
+  },
+  {
+    "index": 55,
+    "timestamp": 1774700102.9025648,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328011",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.902048"
+    },
+    "previous_hash": "11e48760623afcb404a6e301101aeb8cccc02e9454774badb551fe80f72c69c6",
+    "hash": "26857b91f58b2060c0ec6a19fd1b11613bcef01dce55b0c93ff687200c840880"
+  },
+  {
+    "index": 56,
+    "timestamp": 1774700102.9051938,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328012",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.904700"
+    },
+    "previous_hash": "26857b91f58b2060c0ec6a19fd1b11613bcef01dce55b0c93ff687200c840880",
+    "hash": "44591c9bb1790050c1614b43268c1d7a32eb2ddf119920238d793fe5a30b2b19"
+  },
+  {
+    "index": 57,
+    "timestamp": 1774700102.9065952,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328012",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.906119"
+    },
+    "previous_hash": "44591c9bb1790050c1614b43268c1d7a32eb2ddf119920238d793fe5a30b2b19",
+    "hash": "3f4fee83927637ade7e6585a35b42e16b366f81b966361b41b95609ff42afe88"
+  },
+  {
+    "index": 58,
+    "timestamp": 1774700102.9081624,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328012",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.907456"
+    },
+    "previous_hash": "3f4fee83927637ade7e6585a35b42e16b366f81b966361b41b95609ff42afe88",
+    "hash": "9d923d444c2a70c0ae072b19ed1bb460da7fd01646e69eac182eed5d6b876a66"
+  },
+  {
+    "index": 59,
+    "timestamp": 1774700102.909707,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328012",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.909198"
+    },
+    "previous_hash": "9d923d444c2a70c0ae072b19ed1bb460da7fd01646e69eac182eed5d6b876a66",
+    "hash": "d23012b3b3ecc1d760260640abd6dea69358d98f5db856fb6420f6352edeb585"
+  },
+  {
+    "index": 60,
+    "timestamp": 1774700102.911109,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328012",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.910642"
+    },
+    "previous_hash": "d23012b3b3ecc1d760260640abd6dea69358d98f5db856fb6420f6352edeb585",
+    "hash": "b52c43531b2e5d5de17c05f05ef42acadb0d95746b9fe0d9fffa9ac56009787c"
+  },
+  {
+    "index": 61,
+    "timestamp": 1774700102.9138982,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328013",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.913355"
+    },
+    "previous_hash": "b52c43531b2e5d5de17c05f05ef42acadb0d95746b9fe0d9fffa9ac56009787c",
+    "hash": "ee2bd530e11b13541287975bf99e10b91ef4633ef1b3f5ecf50d924a8e4b658c"
+  },
+  {
+    "index": 62,
+    "timestamp": 1774700102.9153774,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328013",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.914887"
+    },
+    "previous_hash": "ee2bd530e11b13541287975bf99e10b91ef4633ef1b3f5ecf50d924a8e4b658c",
+    "hash": "650b102c7cde9b1f9dea23dd09c5aad01bdb822d3d94ae35c9a4418002cf27a5"
+  },
+  {
+    "index": 63,
+    "timestamp": 1774700102.9167745,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328013",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.916278"
+    },
+    "previous_hash": "650b102c7cde9b1f9dea23dd09c5aad01bdb822d3d94ae35c9a4418002cf27a5",
+    "hash": "86740f80d06205a2c53295abdc41d0ffb2693e4e884852daf2c2ab55a12ea2cf"
+  },
+  {
+    "index": 64,
+    "timestamp": 1774700102.9181986,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328013",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.917730"
+    },
+    "previous_hash": "86740f80d06205a2c53295abdc41d0ffb2693e4e884852daf2c2ab55a12ea2cf",
+    "hash": "e5f67d565d9ddf01565eeea8b5a9284733246b01308c1b0434b13ce1fa831803"
+  },
+  {
+    "index": 65,
+    "timestamp": 1774700102.9196138,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328013",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.919140"
+    },
+    "previous_hash": "e5f67d565d9ddf01565eeea8b5a9284733246b01308c1b0434b13ce1fa831803",
+    "hash": "ffc2afc39c08f283ada7c9652de220f51b588f1eae95bb37fc30670219634cb5"
+  },
+  {
+    "index": 66,
+    "timestamp": 1774700102.922386,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328014",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.921858"
+    },
+    "previous_hash": "ffc2afc39c08f283ada7c9652de220f51b588f1eae95bb37fc30670219634cb5",
+    "hash": "d49554ada10b4988f6a47e5ca01b857b19162bac74b297558ed4c90208114eb9"
+  },
+  {
+    "index": 67,
+    "timestamp": 1774700102.9238305,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328014",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.923332"
+    },
+    "previous_hash": "d49554ada10b4988f6a47e5ca01b857b19162bac74b297558ed4c90208114eb9",
+    "hash": "ba77d2531d195eee6ca87e8d84ee755984fb8ae1cae4876dee92a7db49b22293"
+  },
+  {
+    "index": 68,
+    "timestamp": 1774700102.9262993,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328014",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.925511"
+    },
+    "previous_hash": "ba77d2531d195eee6ca87e8d84ee755984fb8ae1cae4876dee92a7db49b22293",
+    "hash": "bdcfd7955713fee4070fe7cc39c3a32dc98978ecb3c085250358c24ab8d23e5f"
+  },
+  {
+    "index": 69,
+    "timestamp": 1774700102.9282637,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328014",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.927576"
+    },
+    "previous_hash": "bdcfd7955713fee4070fe7cc39c3a32dc98978ecb3c085250358c24ab8d23e5f",
+    "hash": "e16e9226e7b902c025e1e0874784f3d37f6980fc0cb79dc4ccd846df610e46a3"
+  },
+  {
+    "index": 70,
+    "timestamp": 1774700102.930365,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328014",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.929641"
+    },
+    "previous_hash": "e16e9226e7b902c025e1e0874784f3d37f6980fc0cb79dc4ccd846df610e46a3",
+    "hash": "8c48a813556a2b8bef93faeca2bc84ec3402f5a404025ecada925ad292a2e4d3"
+  },
+  {
+    "index": 71,
+    "timestamp": 1774700102.9342594,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328015",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.933261"
+    },
+    "previous_hash": "8c48a813556a2b8bef93faeca2bc84ec3402f5a404025ecada925ad292a2e4d3",
+    "hash": "86652bfe6eed3675287fbf7d6d378aa0bedfb42f4916926a207e7cc915b500b5"
+  },
+  {
+    "index": 72,
+    "timestamp": 1774700102.936352,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328015",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.935719"
+    },
+    "previous_hash": "86652bfe6eed3675287fbf7d6d378aa0bedfb42f4916926a207e7cc915b500b5",
+    "hash": "0bfd067a1106d8d2e8f76bce9a64612c8dabd9ea6771a1e260e2c71e68d624d9"
+  },
+  {
+    "index": 73,
+    "timestamp": 1774700102.9381962,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328015",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.937637"
+    },
+    "previous_hash": "0bfd067a1106d8d2e8f76bce9a64612c8dabd9ea6771a1e260e2c71e68d624d9",
+    "hash": "ef7622a01ac9f3cad3c3bef09b29f11bc2125a743bc21dfdfe633b8c976edb97"
+  },
+  {
+    "index": 74,
+    "timestamp": 1774700102.9398336,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328015",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.939210"
+    },
+    "previous_hash": "ef7622a01ac9f3cad3c3bef09b29f11bc2125a743bc21dfdfe633b8c976edb97",
+    "hash": "79398e3cf769e2eded9f873167ed060f6131582d5359fe87a828a470619b0ed5"
+  },
+  {
+    "index": 75,
+    "timestamp": 1774700102.941995,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328015",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.940965"
+    },
+    "previous_hash": "79398e3cf769e2eded9f873167ed060f6131582d5359fe87a828a470619b0ed5",
+    "hash": "61906166c0ab22d50401f2c0a7425f02e8c73b61053480fb19f7ed830ea6d64c"
+  },
+  {
+    "index": 76,
+    "timestamp": 1774700102.9464164,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328016",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.945733"
+    },
+    "previous_hash": "61906166c0ab22d50401f2c0a7425f02e8c73b61053480fb19f7ed830ea6d64c",
+    "hash": "b83fcd087480ef10d34e6f9f108f4d60b82035e5fe5e50db7eb26355f752ee75"
+  },
+  {
+    "index": 77,
+    "timestamp": 1774700102.9483695,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328016",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.947799"
+    },
+    "previous_hash": "b83fcd087480ef10d34e6f9f108f4d60b82035e5fe5e50db7eb26355f752ee75",
+    "hash": "a5e11d6b1ef592064f2020eaa9dd33e14b08583c5a715aef31ad080c6fce69b4"
+  },
+  {
+    "index": 78,
+    "timestamp": 1774700102.9500434,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328016",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.949433"
+    },
+    "previous_hash": "a5e11d6b1ef592064f2020eaa9dd33e14b08583c5a715aef31ad080c6fce69b4",
+    "hash": "211dff460668682ea730568ff25e7fd1279192b10c8a3048508707745ee6a68e"
+  },
+  {
+    "index": 79,
+    "timestamp": 1774700102.9517941,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328016",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.951156"
+    },
+    "previous_hash": "211dff460668682ea730568ff25e7fd1279192b10c8a3048508707745ee6a68e",
+    "hash": "ae7a39e40c4dac6a52b5b8f5183afa981fda8ad8e9e9a2df1bc4df7022300590"
+  },
+  {
+    "index": 80,
+    "timestamp": 1774700102.9535859,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328016",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.952969"
+    },
+    "previous_hash": "ae7a39e40c4dac6a52b5b8f5183afa981fda8ad8e9e9a2df1bc4df7022300590",
+    "hash": "1ac9bef9e5c4249cfebe6bb105216380c1c1602e0f786a5a1ba70fa622f405d7"
+  },
+  {
+    "index": 81,
+    "timestamp": 1774700102.9572186,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328017",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.956489"
+    },
+    "previous_hash": "1ac9bef9e5c4249cfebe6bb105216380c1c1602e0f786a5a1ba70fa622f405d7",
+    "hash": "661502537f380b8387e3b28049869afa55bc2e60e9fffdc120fca9f3a6b89020"
+  },
+  {
+    "index": 82,
+    "timestamp": 1774700102.9602294,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328017",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.959409"
+    },
+    "previous_hash": "661502537f380b8387e3b28049869afa55bc2e60e9fffdc120fca9f3a6b89020",
+    "hash": "80cf0cf1391acd90b3c1cc562136b638391ce255aa78bffd9a03a935966f1fb3"
+  },
+  {
+    "index": 83,
+    "timestamp": 1774700102.962302,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328017",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.961583"
+    },
+    "previous_hash": "80cf0cf1391acd90b3c1cc562136b638391ce255aa78bffd9a03a935966f1fb3",
+    "hash": "7d3a9dbfa8740591feddcc030a12cfc19c5f7c0eac243eb3398f4612ed88ba7b"
+  },
+  {
+    "index": 84,
+    "timestamp": 1774700102.9642534,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328017",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.963604"
+    },
+    "previous_hash": "7d3a9dbfa8740591feddcc030a12cfc19c5f7c0eac243eb3398f4612ed88ba7b",
+    "hash": "f20b3184dd1f354e825c4229a0d5be88363bc23b40d24ecf1f242750691a3062"
+  },
+  {
+    "index": 85,
+    "timestamp": 1774700102.9660802,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328017",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.965462"
+    },
+    "previous_hash": "f20b3184dd1f354e825c4229a0d5be88363bc23b40d24ecf1f242750691a3062",
+    "hash": "33f72a01868a51efeec4fc12ae6192f08c847e7817ed8df214b88d91c1746efa"
+  },
+  {
+    "index": 86,
+    "timestamp": 1774700102.9698455,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328018",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.969118"
+    },
+    "previous_hash": "33f72a01868a51efeec4fc12ae6192f08c847e7817ed8df214b88d91c1746efa",
+    "hash": "934e1f2b275d2e5090da9d446690affbb6f76c0c998b13f615022afb8b86571b"
+  },
+  {
+    "index": 87,
+    "timestamp": 1774700102.9719152,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328018",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.971251"
+    },
+    "previous_hash": "934e1f2b275d2e5090da9d446690affbb6f76c0c998b13f615022afb8b86571b",
+    "hash": "fa0507ca25d8d61e9b44fcbf60477a7da912120135aaf0a98b4e53ebbe313bd2"
+  },
+  {
+    "index": 88,
+    "timestamp": 1774700102.9737737,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328018",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.973086"
+    },
+    "previous_hash": "fa0507ca25d8d61e9b44fcbf60477a7da912120135aaf0a98b4e53ebbe313bd2",
+    "hash": "cfc7b8e22c52595825324b612cd332754b08ac400f6edcc01f066b82b48c8363"
+  },
+  {
+    "index": 89,
+    "timestamp": 1774700102.9761448,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328018",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.975451"
+    },
+    "previous_hash": "cfc7b8e22c52595825324b612cd332754b08ac400f6edcc01f066b82b48c8363",
+    "hash": "60d1284cc99383620d098dce305cc608a664769f883620bfb75d2b4f8bd8b464"
+  },
+  {
+    "index": 90,
+    "timestamp": 1774700102.978338,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328018",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.977621"
+    },
+    "previous_hash": "60d1284cc99383620d098dce305cc608a664769f883620bfb75d2b4f8bd8b464",
+    "hash": "479188b9369dee10a0ae882989c0ed68bab6383fd6f6e461b02e6ae89483d1d9"
+  },
+  {
+    "index": 91,
+    "timestamp": 1774700102.981771,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328019",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.981066"
+    },
+    "previous_hash": "479188b9369dee10a0ae882989c0ed68bab6383fd6f6e461b02e6ae89483d1d9",
+    "hash": "f828c77dea18cbc656544a4ddf7259e598c79c3af9ddb0ebceee698afebb1abb"
+  },
+  {
+    "index": 92,
+    "timestamp": 1774700102.983618,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328019",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.982968"
+    },
+    "previous_hash": "f828c77dea18cbc656544a4ddf7259e598c79c3af9ddb0ebceee698afebb1abb",
+    "hash": "5489b2c418059f6f402ab8ce6fdacb4ec3ed4973942de78b0cd88c382ab4d029"
+  },
+  {
+    "index": 93,
+    "timestamp": 1774700102.985426,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328019",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.984780"
+    },
+    "previous_hash": "5489b2c418059f6f402ab8ce6fdacb4ec3ed4973942de78b0cd88c382ab4d029",
+    "hash": "3e879bb1613a3e473edca7bd2b5741c703721fb4fa2c8da1a80bcb66619a19f8"
+  },
+  {
+    "index": 94,
+    "timestamp": 1774700102.9876616,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328019",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.986790"
+    },
+    "previous_hash": "3e879bb1613a3e473edca7bd2b5741c703721fb4fa2c8da1a80bcb66619a19f8",
+    "hash": "77ab9a0a346315c9de1699d060d459b868da481fa7813c5d6adec73a4ceaca13"
+  },
+  {
+    "index": 95,
+    "timestamp": 1774700102.989769,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328019",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.989044"
+    },
+    "previous_hash": "77ab9a0a346315c9de1699d060d459b868da481fa7813c5d6adec73a4ceaca13",
+    "hash": "dd2c0cbcbff94642cf1c8ebb3fc749b1eec9bc2f2bd245cde43840e7ddf4866f"
+  },
+  {
+    "index": 96,
+    "timestamp": 1774700102.9944975,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328020",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.993655"
+    },
+    "previous_hash": "dd2c0cbcbff94642cf1c8ebb3fc749b1eec9bc2f2bd245cde43840e7ddf4866f",
+    "hash": "cc277cace7d1c4417a2178b1c42dd7eb2b198b66e7c233608643dfde5df0fddd"
+  },
+  {
+    "index": 97,
+    "timestamp": 1774700102.996606,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328020",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.995891"
+    },
+    "previous_hash": "cc277cace7d1c4417a2178b1c42dd7eb2b198b66e7c233608643dfde5df0fddd",
+    "hash": "96666ec3753951f8c93654ac69c7b25c25145ea6735fd5cba5acb9c4ca23e98f"
+  },
+  {
+    "index": 98,
+    "timestamp": 1774700102.998587,
+    "time_str": "2026-03-28 20:15:02",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328020",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.997903"
+    },
+    "previous_hash": "96666ec3753951f8c93654ac69c7b25c25145ea6735fd5cba5acb9c4ca23e98f",
+    "hash": "61b46da2de435d36425b6ee4ca22413492d0fee5277f79aeb8c435ecaa4c04ff"
+  },
+  {
+    "index": 99,
+    "timestamp": 1774700103.0005069,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328020",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:02.999812"
+    },
+    "previous_hash": "61b46da2de435d36425b6ee4ca22413492d0fee5277f79aeb8c435ecaa4c04ff",
+    "hash": "3aa477bf92cdc47c5564000c3f10a1d9e0661b00b1b4b8f60f4cf2224d24e9cb"
+  },
+  {
+    "index": 100,
+    "timestamp": 1774700103.0027213,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328020",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.002019"
+    },
+    "previous_hash": "3aa477bf92cdc47c5564000c3f10a1d9e0661b00b1b4b8f60f4cf2224d24e9cb",
+    "hash": "022b4321f79156fa20fec3dc55d61f712cce75b39c4db325d773298cefab847b"
+  },
+  {
+    "index": 101,
+    "timestamp": 1774700103.0066824,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328021",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.005784"
+    },
+    "previous_hash": "022b4321f79156fa20fec3dc55d61f712cce75b39c4db325d773298cefab847b",
+    "hash": "f51cecb33e3a8b098cf9697c465c5dda2002c9536eb3ffa8497dabe402f787d6"
+  },
+  {
+    "index": 102,
+    "timestamp": 1774700103.0090506,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328021",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.008344"
+    },
+    "previous_hash": "f51cecb33e3a8b098cf9697c465c5dda2002c9536eb3ffa8497dabe402f787d6",
+    "hash": "e6b6f37f7f2b200475996a41ed835b88268db3a3b665a387baa2a34d98bbf94e"
+  },
+  {
+    "index": 103,
+    "timestamp": 1774700103.0112414,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328021",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.010502"
+    },
+    "previous_hash": "e6b6f37f7f2b200475996a41ed835b88268db3a3b665a387baa2a34d98bbf94e",
+    "hash": "2174c71a1e4d5b1a7d49cde6a085fa9c7a323f67264d96626a1a151a38290706"
+  },
+  {
+    "index": 104,
+    "timestamp": 1774700103.013254,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328021",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.012536"
+    },
+    "previous_hash": "2174c71a1e4d5b1a7d49cde6a085fa9c7a323f67264d96626a1a151a38290706",
+    "hash": "2a09fe39a82c2bf2dcd6ee819249a4ea6a4f818afd600496cdf1d8b0e500fd23"
+  },
+  {
+    "index": 105,
+    "timestamp": 1774700103.0151484,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328021",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.014465"
+    },
+    "previous_hash": "2a09fe39a82c2bf2dcd6ee819249a4ea6a4f818afd600496cdf1d8b0e500fd23",
+    "hash": "f6ad0055a38ad3a4d664c847da33c4f1a7d63199e79f431313967a07b191e72d"
+  },
+  {
+    "index": 106,
+    "timestamp": 1774700103.0190256,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328022",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.018140"
+    },
+    "previous_hash": "f6ad0055a38ad3a4d664c847da33c4f1a7d63199e79f431313967a07b191e72d",
+    "hash": "87d0f48338894ba379b925ab3f92c58297d0373b5e21a52be1899f0430f62677"
+  },
+  {
+    "index": 107,
+    "timestamp": 1774700103.0220275,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328022",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.020939"
+    },
+    "previous_hash": "87d0f48338894ba379b925ab3f92c58297d0373b5e21a52be1899f0430f62677",
+    "hash": "11acaedc5d3fdf9093d822044d7f5c95b405bfd75ba864365ff59eed1d5557e6"
+  },
+  {
+    "index": 108,
+    "timestamp": 1774700103.023982,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328022",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.023268"
+    },
+    "previous_hash": "11acaedc5d3fdf9093d822044d7f5c95b405bfd75ba864365ff59eed1d5557e6",
+    "hash": "f32d6f12c82f40085f9d478390f3491c1a99121a332837bbd122c9caf3d8bd8f"
+  },
+  {
+    "index": 109,
+    "timestamp": 1774700103.0265841,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328022",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.025833"
+    },
+    "previous_hash": "f32d6f12c82f40085f9d478390f3491c1a99121a332837bbd122c9caf3d8bd8f",
+    "hash": "314ac39335d10d767fd412daf20cbc7def6c3bfacf3dec15b90474ee57591e21"
+  },
+  {
+    "index": 110,
+    "timestamp": 1774700103.0285814,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328022",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.027847"
+    },
+    "previous_hash": "314ac39335d10d767fd412daf20cbc7def6c3bfacf3dec15b90474ee57591e21",
+    "hash": "3194205c1f87bcf4b5bd35c2d7623a196cc8e0ba9750b3419cada2887123a96b"
+  },
+  {
+    "index": 111,
+    "timestamp": 1774700103.0323315,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328023",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.031482"
+    },
+    "previous_hash": "3194205c1f87bcf4b5bd35c2d7623a196cc8e0ba9750b3419cada2887123a96b",
+    "hash": "1917b8b2a908c04c447c98c9398bfa4e69c42f880f2e5e5a0106e5a2f68ad165"
+  },
+  {
+    "index": 112,
+    "timestamp": 1774700103.0349872,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328023",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.034093"
+    },
+    "previous_hash": "1917b8b2a908c04c447c98c9398bfa4e69c42f880f2e5e5a0106e5a2f68ad165",
+    "hash": "511ba407a0024cbe69baed29cf23b77e1c9b0e2a185f7f5d03c1cb0888bd6694"
+  },
+  {
+    "index": 113,
+    "timestamp": 1774700103.0373704,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328023",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.036501"
+    },
+    "previous_hash": "511ba407a0024cbe69baed29cf23b77e1c9b0e2a185f7f5d03c1cb0888bd6694",
+    "hash": "986f2dae49ad3c9ed658a441150a9a66dc24e704af25de0d1a4738233213f443"
+  },
+  {
+    "index": 114,
+    "timestamp": 1774700103.039903,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328023",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.039015"
+    },
+    "previous_hash": "986f2dae49ad3c9ed658a441150a9a66dc24e704af25de0d1a4738233213f443",
+    "hash": "a76673e51d1e7a8913d87dc5d0ab3ffcc1815b2b4bf063271d690c97fba07a74"
+  },
+  {
+    "index": 115,
+    "timestamp": 1774700103.0433335,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328023",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.041904"
+    },
+    "previous_hash": "a76673e51d1e7a8913d87dc5d0ab3ffcc1815b2b4bf063271d690c97fba07a74",
+    "hash": "4ce2b4ec268288d41bea5eec854842886e42b7cb45956450cc895e1c20b734e7"
+  },
+  {
+    "index": 116,
+    "timestamp": 1774700103.0475383,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328024",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.046482"
+    },
+    "previous_hash": "4ce2b4ec268288d41bea5eec854842886e42b7cb45956450cc895e1c20b734e7",
+    "hash": "3671f3784f392720e3a94ae72fccafd70a1a5258eb978861962faec51712313e"
+  },
+  {
+    "index": 117,
+    "timestamp": 1774700103.0510335,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328024",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.049648"
+    },
+    "previous_hash": "3671f3784f392720e3a94ae72fccafd70a1a5258eb978861962faec51712313e",
+    "hash": "79956ab0ba33eae1093b9071421b50a78a7a436cba9137fe1ffe7ec427d1b2b9"
+  },
+  {
+    "index": 118,
+    "timestamp": 1774700103.0543988,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328024",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.052970"
+    },
+    "previous_hash": "79956ab0ba33eae1093b9071421b50a78a7a436cba9137fe1ffe7ec427d1b2b9",
+    "hash": "5123cb516ab9eca4ba2ac49cb4b01e9f90d55ac2760eb04ea2beaa1385a465d2"
+  },
+  {
+    "index": 119,
+    "timestamp": 1774700103.0573425,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328024",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.056283"
+    },
+    "previous_hash": "5123cb516ab9eca4ba2ac49cb4b01e9f90d55ac2760eb04ea2beaa1385a465d2",
+    "hash": "2471c37d3747aa524da8ac5204f4b078dbdb053bdbe0a7f19653de1cd3aea678"
+  },
+  {
+    "index": 120,
+    "timestamp": 1774700103.0598643,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328024",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.058974"
+    },
+    "previous_hash": "2471c37d3747aa524da8ac5204f4b078dbdb053bdbe0a7f19653de1cd3aea678",
+    "hash": "9962bc48b6faa2f30e6ae4e9b6486a0f2e0d827aa4f4449440aa6ac30c1c7213"
+  },
+  {
+    "index": 121,
+    "timestamp": 1774700103.0641167,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328025",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.063252"
+    },
+    "previous_hash": "9962bc48b6faa2f30e6ae4e9b6486a0f2e0d827aa4f4449440aa6ac30c1c7213",
+    "hash": "aef9575d9be9e7a87b0509d85ee675658a982c4782fffdf5faf16ded803701e6"
+  },
+  {
+    "index": 122,
+    "timestamp": 1774700103.0663993,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328025",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.065556"
+    },
+    "previous_hash": "aef9575d9be9e7a87b0509d85ee675658a982c4782fffdf5faf16ded803701e6",
+    "hash": "b2eaf3ddd3985e2c6560fe1e2d1cc7aa1716bffb1d7b993b450a490ba87d59f9"
+  },
+  {
+    "index": 123,
+    "timestamp": 1774700103.0686529,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328025",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.067834"
+    },
+    "previous_hash": "b2eaf3ddd3985e2c6560fe1e2d1cc7aa1716bffb1d7b993b450a490ba87d59f9",
+    "hash": "a502452b03b777982d6a8300945ef2e52b2b50ef18a598ff9e6e05406909ba18"
+  },
+  {
+    "index": 124,
+    "timestamp": 1774700103.0708785,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328025",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.070063"
+    },
+    "previous_hash": "a502452b03b777982d6a8300945ef2e52b2b50ef18a598ff9e6e05406909ba18",
+    "hash": "6ababc3e03c04c1f283e443118d08df11779a2b95ee04cc3ac8ed49ba0b2868a"
+  },
+  {
+    "index": 125,
+    "timestamp": 1774700103.0729718,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328025",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.072216"
+    },
+    "previous_hash": "6ababc3e03c04c1f283e443118d08df11779a2b95ee04cc3ac8ed49ba0b2868a",
+    "hash": "293275130da7a0427be88338c96475d143b5b022378fb2090b425373af9ef899"
+  },
+  {
+    "index": 126,
+    "timestamp": 1774700103.0779364,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328026",
+      "event_type": "播种/育苗",
+      "location": "农场A区",
+      "description": "按绿色标准播种，记录温湿度，确保生长环境达标",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.076495"
+    },
+    "previous_hash": "293275130da7a0427be88338c96475d143b5b022378fb2090b425373af9ef899",
+    "hash": "7082e5f278ee9964f051299afa51fe4d9c0207c0b0b181cd09c4e91fc137ca81"
+  },
+  {
+    "index": 127,
+    "timestamp": 1774700103.0810344,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328026",
+      "event_type": "田间管理",
+      "location": "农场A区",
+      "description": "施用有机肥，人工除草，记录生长状态和病虫监测",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.079642"
+    },
+    "previous_hash": "7082e5f278ee9964f051299afa51fe4d9c0207c0b0b181cd09c4e91fc137ca81",
+    "hash": "e23f89fb4ad67ac756a923f40ce1d9e435fdf838d87308cfd1143940b380cadb"
+  },
+  {
+    "index": 128,
+    "timestamp": 1774700103.0842593,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328026",
+      "event_type": "质量检测",
+      "location": "质量检测中心",
+      "description": "第三方机构抽样检测，农残检测通过，品质合格",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.083232"
+    },
+    "previous_hash": "e23f89fb4ad67ac756a923f40ce1d9e435fdf838d87308cfd1143940b380cadb",
+    "hash": "948018101743d224efd8a9ed56b9abc0f8d4772d9397f3bb7a6e86806887143d"
+  },
+  {
+    "index": 129,
+    "timestamp": 1774700103.086588,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328026",
+      "event_type": "采收/分拣",
+      "location": "农场B区",
+      "description": "人工采收，按等级分拣包装，附质量合格证",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.085768"
+    },
+    "previous_hash": "948018101743d224efd8a9ed56b9abc0f8d4772d9397f3bb7a6e86806887143d",
+    "hash": "d398d38206f1e815579f62379fadcc48bdc5bc1127eba385d92361e61b01385d"
+  },
+  {
+    "index": 130,
+    "timestamp": 1774700103.088762,
+    "time_str": "2026-03-28 20:15:03",
+    "data": {
+      "type": "TRACE_EVENT",
+      "batch_number": "BN20260328026",
+      "event_type": "出库运输",
+      "location": "物流配送中心",
+      "description": "冷链车运输，全程温度监控，已到达消费者仓储中心",
+      "operator": "system",
+      "timestamp": "2026-03-28T20:15:03.087956"
+    },
+    "previous_hash": "d398d38206f1e815579f62379fadcc48bdc5bc1127eba385d92361e61b01385d",
+    "hash": "72ea5d761fda50bccf5bdf8e987e9c85f825217f1822b3d7e5ce35fe77bf92e8"
+  }
+]
